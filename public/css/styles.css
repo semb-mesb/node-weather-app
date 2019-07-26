@@ -58,3 +58,7 @@ button{
 p{
     color: white;
 }
+
+a:hover{
+    color: white;
+}
