@@ -83,4 +83,4 @@ app.get('*', (req, res) => {
     })
 })
 
-app.listen('3000', () => console.log('server running at port ' + port))
+app.listen(port, () => console.log('server running at port ' + port))
